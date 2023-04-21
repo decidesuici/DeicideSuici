@@ -27,7 +27,10 @@
         ✅ Neo Genesis Evangelion
     </li>
     <li>
-        ✅ Miss Kobayashi's Dragon Maid
+        ✅ Miss Kobayashi's Dragon Maid Season 1
+    </li>
+    <li>
+        ✅ Miss Kobayashi's Dragon Maid Season 2
     </li>
     <li>
         ✅ Kaguya-Sama: Love is War Season 1
