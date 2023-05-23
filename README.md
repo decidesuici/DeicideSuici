@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=DeicideSuici&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DeicideSuici&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)" alt="Description of the image">
   ![](https://github-readme-streak-stats.herokuapp.com/?user=DeicideSuici&theme=blueberry&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeicideSuici&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </p>
